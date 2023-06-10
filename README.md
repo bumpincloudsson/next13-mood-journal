@@ -1,5 +1,9 @@
 # Mood Journal
 
+Based on Frontend Masters course by https://github.com/Hendrixer/fullstack-ai-nextjs
+
+Video has been pulled out so try to just clone his repo and figure it out from inside
+
 ## Steps
 
 1. create the landing page
